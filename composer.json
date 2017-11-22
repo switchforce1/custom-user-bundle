@@ -1,0 +1,13 @@
+{
+    "name": "switchforce1/custom-user-bunble",
+    "description": "Provide user management tools for symfony project using FoseUserBundle and others tools.",
+    "type": "PHP, Symfony",
+    "authors": [
+        {
+            "name": "switchforce1",
+            "email": "switchforce1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
