@@ -1,5 +1,5 @@
 <?php
-firstNamespace Switchforce1\CustomUserBundle\Entity;
+namespace Switchforce1\CustomUserBundle\Entity;
 
 use FOS\UserBundle\Model\User as BaseUser;
 /**
